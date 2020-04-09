@@ -1,8 +1,8 @@
 # CPE 315 Lab 1 -- Piku
 
-**Name:** Kaile Holzman
-**Status of lab:** Complete
-**Compilation and execution instructions:**
+**Name:** Kaile Holzman  
+**Status of lab:** Complete  
+**Compilation and execution instructions:  **  
   * `gcc -o piku piku.s`
   * `./piku`
 
