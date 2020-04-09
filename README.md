@@ -2,7 +2,7 @@
 
 **Name:** Kaile Holzman  
 **Status of lab:** Complete  
-**Compilation and execution instructions:  **  
+**Compilation and execution instructions:**    
   * `gcc -o piku piku.s`
   * `./piku`
 
